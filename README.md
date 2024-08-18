@@ -1,3 +1,5 @@
 # Creating an Advanced Dashboard in Tableau
 
-This is a project that I worked on to develop a visualization tool for our internal team.
+This project is all about providing internal stakeholders with a better way to visualize our data. 
+
+CURRENTLY BEING UPDATED
